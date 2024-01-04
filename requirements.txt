@@ -1,0 +1,21 @@
+# EDA Libraries
+pandas==1.5.3
+numpy==1.24.1
+plotly==5.14.1
+seaborn==0.12.2
+matplotlib==3.6.3
+pycountry==22.3.5
+
+# Data Preprocessing Libraries
+scikit-learn==1.3.2
+imbalanced-learn==0.11.0
+category-encoders==2.6.1
+
+# Machine Learning (Classification Models) Libraries
+lightgbm==4.1.0
+xgboost==1.7.6
+
+# Model Deployment Libraries
+joblib==1.2.0
+streamlit==1.27.2
+
